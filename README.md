@@ -1,5 +1,5 @@
 # 1. programming for everybody
-[pro for everybody수료증.pdf](https://github.com/HD-LIAM/cirtificate/files/7071781/pro.for.everybody.pdf)
+![1](https://user-images.githubusercontent.com/84886608/131235864-65aba9b5-5ce3-4b42-82cf-fe56ac1a35be.png)
 
 ## 2. python data structure
-[2.pdf](https://github.com/HD-LIAM/cirtificate/files/7071782/2.pdf)
+![22](https://user-images.githubusercontent.com/84886608/131235866-2a96a7a7-8519-4dae-bb49-71be66195620.png)
